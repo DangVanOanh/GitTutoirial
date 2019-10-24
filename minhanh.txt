@@ -1,8 +1,0 @@
-123
-dang minh anh
-<<<<<<< HEAD
-Dang Minh Han
-=======
-ha thi toan
->>>>>>> testing
-asdfsaf
